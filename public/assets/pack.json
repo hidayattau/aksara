@@ -1,0 +1,23 @@
+{
+  "aksara_game": {
+    "files": [
+      {
+        "type": "pack",
+        "key": "images",
+        "url": "assets/images/images.json"
+      },
+      {
+        "type": "pack",
+        "key": "audios",
+        "url": "assets/audios/audios.json"
+      }
+    ]
+  },
+  "meta": {
+    "generated": "1401380327373",
+    "app": "Phaser 3 Asset Packer",
+    "url": "https://phaser.io",
+    "version": "1.0",
+    "copyright": "Photon Storm Ltd. 2018"
+  }
+}

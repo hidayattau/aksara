@@ -1,0 +1,29 @@
+{
+  "audio": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "theme-sound",
+        "url": [
+          "assets/audios/intro/Intro_Theme.mp3",
+          "assets/audios/intro/Intro_Theme.ogg"
+        ]
+      },
+      {
+        "type": "audio",
+        "key": "woodland_fantasy",
+        "url": [
+          "assets/audios/soal/Woodland_Fantasy.mp3",
+          "assets/audios/soal/Woodland_Fantasy.ogg"
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "generated": "1401380327373",
+    "app": "Phaser 3 Asset Packer",
+    "url": "https://phaser.io",
+    "version": "1.0",
+    "copyright": "Photon Storm Ltd. 2018"
+  }
+}

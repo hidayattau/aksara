@@ -1,0 +1,108 @@
+{
+  "resources": [
+    "assets/audios/aksara/aksara_dasar.ogg",
+    "assets/audios/aksara/aksara_dasar.mp3"
+  ],
+  "spritemap": {
+    "ha": {
+      "start": 0,
+      "end": 1,
+      "loop": false
+    },
+    "na": {
+      "start": 1,
+      "end": 2,
+      "loop": false
+    },
+    "ca": {
+      "start": 2,
+      "end": 3,
+      "loop": false
+    },
+    "ra": {
+      "start": 3,
+      "end": 4,
+      "loop": false
+    },
+    "ka": {
+      "start": 4,
+      "end": 5,
+      "loop": false
+    },
+    "da": {
+      "start": 5,
+      "end": 6,
+      "loop": false
+    },
+    "ta": {
+      "start": 6,
+      "end": 7,
+      "loop": false
+    },
+    "sa": {
+      "start": 7,
+      "end": 8,
+      "loop": false
+    },
+    "wa": {
+      "start": 8,
+      "end": 9,
+      "loop": false
+    },
+    "la": {
+      "start": 9,
+      "end": 10,
+      "loop": false
+    },
+    "pa": {
+      "start": 10,
+      "end": 11,
+      "loop": false
+    },
+    "dha": {
+      "start": 11,
+      "end": 12,
+      "loop": false
+    },
+    "ja": {
+      "start": 12,
+      "end": 13,
+      "loop": false
+    },
+    "ya": {
+      "start": 13,
+      "end": 14,
+      "loop": false
+    },
+    "nya": {
+      "start": 14,
+      "end": 15,
+      "loop": false
+    },
+    "ma": {
+      "start": 15,
+      "end": 16,
+      "loop": false
+    },
+    "ga": {
+      "start": 16,
+      "end": 17,
+      "loop": false
+    },
+    "ba": {
+      "start": 17,
+      "end": 18,
+      "loop": false
+    },
+    "tha": {
+      "start": 18,
+      "end": 19,
+      "loop": false
+    },
+    "nga": {
+      "start": 19,
+      "end": 20,
+      "loop": false
+    }
+  }
+}

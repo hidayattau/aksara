@@ -1,0 +1,28 @@
+{
+  "images": {
+    "files": [
+      {
+        "type": "multiatlas",
+        "key": "aksara",
+        "atlasURL": "assets/images/aksara.json"
+      },
+      {
+        "type": "image",
+        "key": "back",
+        "url": "assets/images/back.png"
+      },
+      {
+        "type": "image",
+        "key": "submit",
+        "url": "assets/images/submit.png"
+      }
+    ]
+  },
+  "meta": {
+    "generated": "1401380327373",
+    "app": "Phaser 3 Asset Packer",
+    "url": "https://phaser.io",
+    "version": "1.0",
+    "copyright": "Photon Storm Ltd. 2018"
+  }
+}
